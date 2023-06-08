@@ -1,3 +1,4 @@
+.gitattributes
 fin_hedge.egg-info/
 dist/
 build/
