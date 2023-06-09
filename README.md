@@ -15,11 +15,12 @@ The modules are divided in those features:
 
 ## Installation
 ```bash
-pip install HedgeFundToolkit
+pip install fin-hedge
 ```
 
 ## Usage
 Detailed usage for each module is outlined in the test section of the repo. # WIP
+Refers to the [PYPI official page](https://pypi.org/project/fin-hedge/) for further information about the package 
 
 ## License
 This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) for details.
