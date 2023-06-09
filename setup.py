@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="fin_hedge",
-    version="0.0.1",
+    version="0.0.2",
     author="edob",
     author_email="biadene.edoardo@gmail.com",
     description="A package for quant finance",
